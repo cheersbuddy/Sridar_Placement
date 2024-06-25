@@ -1,0 +1,66 @@
+Number Integration
+
+Reverse a Number
+ADAM Number
+
+Decimal to Octal
+Decimal to Binary
+
+Octal to Decimal
+Octal to Binary HW
+
+Binary to Octal HW
+Number Rearrangement
+
+
+Functions
+
+What ?
+Named - Block of Code
+Particular Task
+
+Why ?
+
+Reuse
+
+
+
+Declaration
+Definition
+include Header Files and Code Files
+
+int numberOfDigits(int)
+int sumOfDigits(int)
+int reverse(int)
+int power(int base, int expo)
+int power10(int expo)
+int sumOfFactors(int)
+int prime(int )
+
+auto / static / extern / register / volatile
+
+
+
+Specifier		PLACE		SCOPE			LIFE
+auto			STACK		{}			{} outer most
+static			HEAP		{}			Entire Program
+outside {}		HEAP		Entire Program		Entire Program
+static outside {}	HEAP		FILE			Entire Program
+
+Compiler 
+
+extern	- adds entry to SYMBOL table, to be resolved by the LINKER			
+register - Request to the compiler to optimize, space given in the registers
+volatile - Order to the compiler NOT to optimize
+
+
+
+
+
+Arrays
+~~~~~~
+
+Prime number
+
+Prime number generation
+
